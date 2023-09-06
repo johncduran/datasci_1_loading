@@ -1,0 +1,273 @@
+[ {
+  "id" : 405601245,
+  "name" : "Jurisdiction",
+  "dataTypeName" : "text",
+  "description" : "",
+  "fieldName" : "jurisdiction",
+  "position" : 1,
+  "renderTypeName" : "text",
+  "tableColumnId" : 77902876,
+  "cachedContents" : {
+    "largest" : "Worcester",
+    "non_null" : "1250",
+    "null" : "0",
+    "top" : [ {
+      "item" : "Allegany",
+      "count" : "50"
+    }, {
+      "item" : "Anne Arundel",
+      "count" : "50"
+    }, {
+      "item" : "Baltimore City",
+      "count" : "50"
+    }, {
+      "item" : "Baltimore County",
+      "count" : "50"
+    }, {
+      "item" : "Calvert",
+      "count" : "50"
+    }, {
+      "item" : "Caroline",
+      "count" : "50"
+    }, {
+      "item" : "Carroll",
+      "count" : "50"
+    }, {
+      "item" : "Cecil",
+      "count" : "50"
+    }, {
+      "item" : "Charles",
+      "count" : "50"
+    }, {
+      "item" : "Dorchester",
+      "count" : "50"
+    }, {
+      "item" : "Frederick",
+      "count" : "50"
+    }, {
+      "item" : "Garrett",
+      "count" : "50"
+    }, {
+      "item" : "Harford",
+      "count" : "50"
+    }, {
+      "item" : "Howard",
+      "count" : "50"
+    }, {
+      "item" : "Kent",
+      "count" : "50"
+    }, {
+      "item" : "Montgomery",
+      "count" : "50"
+    }, {
+      "item" : "Prince George's",
+      "count" : "50"
+    }, {
+      "item" : "Queen Anne's",
+      "count" : "50"
+    }, {
+      "item" : "Saint Mary's",
+      "count" : "50"
+    }, {
+      "item" : "Somerset",
+      "count" : "50"
+    } ],
+    "smallest" : "Allegany",
+    "count" : "1250",
+    "cardinality" : "25"
+  },
+  "format" : { }
+}, {
+  "id" : 405601262,
+  "name" : "Value",
+  "dataTypeName" : "number",
+  "description" : "",
+  "fieldName" : "value",
+  "position" : 2,
+  "renderTypeName" : "number",
+  "tableColumnId" : 79911500,
+  "cachedContents" : {
+    "largest" : "41803.0",
+    "non_null" : "940",
+    "null" : "310",
+    "top" : [ {
+      "item" : "298.8",
+      "count" : "2"
+    }, {
+      "item" : "2391.8",
+      "count" : "2"
+    }, {
+      "item" : "2912.5",
+      "count" : "2"
+    }, {
+      "item" : "1072.9",
+      "count" : "2"
+    }, {
+      "item" : "1787.1",
+      "count" : "2"
+    }, {
+      "item" : "2599.0",
+      "count" : "2"
+    }, {
+      "item" : "1542.4",
+      "count" : "2"
+    }, {
+      "item" : "353.2",
+      "count" : "1"
+    }, {
+      "item" : "2181.9",
+      "count" : "1"
+    }, {
+      "item" : "5037.8",
+      "count" : "1"
+    }, {
+      "item" : "5646.4",
+      "count" : "1"
+    }, {
+      "item" : "771.0",
+      "count" : "1"
+    }, {
+      "item" : "1553.7",
+      "count" : "1"
+    }, {
+      "item" : "1191.1",
+      "count" : "1"
+    }, {
+      "item" : "3420.4",
+      "count" : "1"
+    }, {
+      "item" : "2812.9",
+      "count" : "1"
+    }, {
+      "item" : "1076.0",
+      "count" : "1"
+    }, {
+      "item" : "7136.0",
+      "count" : "1"
+    }, {
+      "item" : "4931.7",
+      "count" : "1"
+    }, {
+      "item" : "2599.9",
+      "count" : "1"
+    } ],
+    "smallest" : "99.5",
+    "count" : "1250",
+    "cardinality" : "933"
+  },
+  "format" : { }
+}, {
+  "id" : 405601247,
+  "name" : "Race/ ethnicity",
+  "dataTypeName" : "text",
+  "description" : "",
+  "fieldName" : "race_ethnicity",
+  "position" : 3,
+  "renderTypeName" : "text",
+  "tableColumnId" : 77902878,
+  "cachedContents" : {
+    "largest" : "White Non-Hispanic",
+    "non_null" : "1250",
+    "null" : "0",
+    "top" : [ {
+      "item" : "Hispanic",
+      "count" : "250"
+    }, {
+      "item" : "All races/ ethnicities (aggregated)",
+      "count" : "250"
+    }, {
+      "item" : "Black Non-Hispanic",
+      "count" : "225"
+    }, {
+      "item" : "White Non-Hispanic",
+      "count" : "225"
+    }, {
+      "item" : "Asian/ Pacific Islander Non-Hispanic",
+      "count" : "225"
+    }, {
+      "item" : "Black",
+      "count" : "25"
+    }, {
+      "item" : "White",
+      "count" : "25"
+    }, {
+      "item" : "Asian/ Pacific Islander",
+      "count" : "25"
+    } ],
+    "smallest" : "All races/ ethnicities (aggregated)",
+    "count" : "1250",
+    "cardinality" : "8"
+  },
+  "format" : { }
+}, {
+  "id" : 405601248,
+  "name" : "Year",
+  "dataTypeName" : "text",
+  "description" : "",
+  "fieldName" : "year",
+  "position" : 4,
+  "renderTypeName" : "text",
+  "tableColumnId" : 79431828,
+  "cachedContents" : {
+    "largest" : "2017",
+    "non_null" : "1250",
+    "null" : "0",
+    "top" : [ {
+      "item" : "2008",
+      "count" : "125"
+    }, {
+      "item" : "2009",
+      "count" : "125"
+    }, {
+      "item" : "2010",
+      "count" : "125"
+    }, {
+      "item" : "2011",
+      "count" : "125"
+    }, {
+      "item" : "2012",
+      "count" : "125"
+    }, {
+      "item" : "2013",
+      "count" : "125"
+    }, {
+      "item" : "2014",
+      "count" : "125"
+    }, {
+      "item" : "2015",
+      "count" : "125"
+    }, {
+      "item" : "2016",
+      "count" : "125"
+    }, {
+      "item" : "2017",
+      "count" : "125"
+    } ],
+    "smallest" : "2008",
+    "count" : "1250",
+    "cardinality" : "10"
+  },
+  "format" : { }
+}, {
+  "id" : 405601249,
+  "name" : "Measure",
+  "dataTypeName" : "text",
+  "description" : "",
+  "fieldName" : "measure",
+  "position" : 5,
+  "renderTypeName" : "text",
+  "tableColumnId" : 77902880,
+  "cachedContents" : {
+    "largest" : "Mental Health ED visits",
+    "non_null" : "1250",
+    "null" : "0",
+    "top" : [ {
+      "item" : "Mental Health ED visits",
+      "count" : "1250"
+    } ],
+    "smallest" : "Mental Health ED visits",
+    "count" : "1250",
+    "cardinality" : "1"
+  },
+  "format" : { }
+} ]
